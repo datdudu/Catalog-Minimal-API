@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Eduardo\\Desktop\\.NET Macoratti Projects\\CatalogMinimalApi\\Catalog-Minimal-API\\CatalogMinimalAPI\\CatalogMinimalAPI\\CatalogMinimalAPI.csproj": {}
+    "C:\\Users\\Carlos Eduardo\\desktop\\.Net Macoratti Projects\\CatalogMinimalApi\\Catalog-Minimal-API\\CatalogMinimalAPI\\CatalogMinimalAPI\\CatalogMinimalAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Eduardo\\Desktop\\.NET Macoratti Projects\\CatalogMinimalApi\\Catalog-Minimal-API\\CatalogMinimalAPI\\CatalogMinimalAPI\\CatalogMinimalAPI.csproj": {
+    "C:\\Users\\Carlos Eduardo\\desktop\\.Net Macoratti Projects\\CatalogMinimalApi\\Catalog-Minimal-API\\CatalogMinimalAPI\\CatalogMinimalAPI\\CatalogMinimalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Eduardo\\Desktop\\.NET Macoratti Projects\\CatalogMinimalApi\\Catalog-Minimal-API\\CatalogMinimalAPI\\CatalogMinimalAPI\\CatalogMinimalAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Carlos Eduardo\\desktop\\.Net Macoratti Projects\\CatalogMinimalApi\\Catalog-Minimal-API\\CatalogMinimalAPI\\CatalogMinimalAPI\\CatalogMinimalAPI.csproj",
         "projectName": "CatalogMinimalAPI",
-        "projectPath": "C:\\Users\\Carlos Eduardo\\Desktop\\.NET Macoratti Projects\\CatalogMinimalApi\\Catalog-Minimal-API\\CatalogMinimalAPI\\CatalogMinimalAPI\\CatalogMinimalAPI.csproj",
+        "projectPath": "C:\\Users\\Carlos Eduardo\\desktop\\.Net Macoratti Projects\\CatalogMinimalApi\\Catalog-Minimal-API\\CatalogMinimalAPI\\CatalogMinimalAPI\\CatalogMinimalAPI.csproj",
         "packagesPath": "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Eduardo\\Desktop\\.NET Macoratti Projects\\CatalogMinimalApi\\Catalog-Minimal-API\\CatalogMinimalAPI\\CatalogMinimalAPI\\obj\\",
+        "outputPath": "C:\\Users\\Carlos Eduardo\\desktop\\.Net Macoratti Projects\\CatalogMinimalApi\\Catalog-Minimal-API\\CatalogMinimalAPI\\CatalogMinimalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carlos Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
