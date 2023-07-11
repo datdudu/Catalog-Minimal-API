@@ -52,3 +52,10 @@ C:\Users\Carlos Eduardo\Desktop\.NET Macoratti Projects\CatalogMinimalApi\Catalo
 C:\Users\Carlos Eduardo\Desktop\.NET Macoratti Projects\CatalogMinimalApi\Catalog-Minimal-API\CatalogMinimalAPI\CatalogMinimalAPI\obj\Debug\net6.0\CatalogMinimalAPI.pdb
 C:\Users\Carlos Eduardo\Desktop\.NET Macoratti Projects\CatalogMinimalApi\Catalog-Minimal-API\CatalogMinimalAPI\CatalogMinimalAPI\obj\Debug\net6.0\CatalogMinimalAPI.genruntimeconfig.cache
 C:\Users\Carlos Eduardo\Desktop\.NET Macoratti Projects\CatalogMinimalApi\Catalog-Minimal-API\CatalogMinimalAPI\CatalogMinimalAPI\obj\Debug\net6.0\ref\CatalogMinimalAPI.dll
+C:\Users\Carlos Eduardo\Desktop\.NET Macoratti Projects\CatalogMinimalApi\Catalog-Minimal-API\CatalogMinimalAPI\CatalogMinimalAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Carlos Eduardo\Desktop\.NET Macoratti Projects\CatalogMinimalApi\Catalog-Minimal-API\CatalogMinimalAPI\CatalogMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carlos Eduardo\Desktop\.NET Macoratti Projects\CatalogMinimalApi\Catalog-Minimal-API\CatalogMinimalAPI\CatalogMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carlos Eduardo\Desktop\.NET Macoratti Projects\CatalogMinimalApi\Catalog-Minimal-API\CatalogMinimalAPI\CatalogMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carlos Eduardo\Desktop\.NET Macoratti Projects\CatalogMinimalApi\Catalog-Minimal-API\CatalogMinimalAPI\CatalogMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carlos Eduardo\Desktop\.NET Macoratti Projects\CatalogMinimalApi\Catalog-Minimal-API\CatalogMinimalAPI\CatalogMinimalAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carlos Eduardo\Desktop\.NET Macoratti Projects\CatalogMinimalApi\Catalog-Minimal-API\CatalogMinimalAPI\CatalogMinimalAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
