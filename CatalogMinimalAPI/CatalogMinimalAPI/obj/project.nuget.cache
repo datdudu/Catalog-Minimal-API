@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+nochCBc0xP5ncr/UK5Vugl3FKr4zlUe4bYLy+VCITv1Lhbnq0osHbOtLHArMkTkBS5OJxSl5eHPTlKGXEPaVw==",
+  "dgSpecHash": "TLt4hq5a1LoxAUzAjK5/AwXUClvx4DGpMlMiLyZNdRne43dxsYlKUfiQlZeWf0QhxoeTGeSru2XEAfVtecoxDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Eduardo\\desktop\\.Net Macoratti Projects\\CatalogMinimalApi\\Catalog-Minimal-API\\CatalogMinimalAPI\\CatalogMinimalAPI\\CatalogMinimalAPI.csproj",
+  "projectFilePath": "C:\\Users\\Carlos Eduardo\\Desktop\\.NET Macoratti Projects\\CatalogMinimalApi\\Catalog-Minimal-API\\CatalogMinimalAPI\\CatalogMinimalAPI\\CatalogMinimalAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Carlos Eduardo\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
